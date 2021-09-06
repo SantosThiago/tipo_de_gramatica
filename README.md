@@ -23,7 +23,9 @@ Tipo 3: gramática regular
 
 Seguindo esses tipos a seguir:
 A->aB
+
 A->a
+
 A->ε
 
 Confira o arquivo exemplo.txt para saber como funciona a entrada das regras.
