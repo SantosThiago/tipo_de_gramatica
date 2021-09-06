@@ -22,6 +22,7 @@ Para A,β quaisquer. Onde A é não-terminal.
 Tipo 3: gramática regular
 
 Seguindo esses tipos a seguir:
+
 A->aB
 
 A->a
